@@ -1,22 +1,29 @@
-# Oracle SQL Practice Repository
+# Oracle SQL und PL/SQL
 
-This repository contains SQL scripts created as part of my in-depth study of Oracle SQL.
+Technische Referenzsammlung für SQL-Abfragen, Datenbankfunktionen und PL/SQL. Die Skripte bündeln Beispiele und Notizen für das Nachschlagen, Vergleichen und Erproben von Oracle-Techniken.
 
-## Purpose
-- Deepen understanding of Oracle SQL concepts
-- Practice advanced queries, joins, subqueries, and database structures
-- Build a personal reference library for quick access to commonly used scripts and solutions
+## Skripte
 
-## What is included
-- SQL scripts for a variety of exercises and scenarios
-- Examples based on tutorials, modified and extended for better understanding
-- Notes and reference material to support learning and problem-solving
+| Bereich | Datei |
+| --- | --- |
+| Datentypen | [Oracle Data Types](Oracle%20Data%20Types.sql) |
+| Datumsfunktionen | [Oracle Date Functions](Oracle%20Date%20Functions.sql) |
+| Sequenzen | [Oracle Sequence](Oracle%20Sequence.sql) |
+| SQL-Abfragen und Grundlagen | [Oracle SQL — Abschnitte 1–5](Oracle%20tutorial%20Sections_1-5.sql) |
+| Weiterführende SQL-Themen | [Oracle SQL — Abschnitte 6–12](Oracle%20tutorial%20Sections__6-12.sql) |
+| Analytische Funktionen | [Window Functions](Oracle_Windows_Functions.sql) |
+| Prozedurale Datenbankprogrammierung | [PL/SQL](PL_SQL_Oracle_tutorial.sql) |
 
-## Notes
-All scripts were created for educational purposes to enhance skills and maintain a handy personal reference for Oracle SQL.
+## Fachlicher Bezug
 
-## Tools
-- Oracle SQL
-- SQL Developer / any SQL client
+Die Sammlung ergänzt meine berufliche Arbeit mit Oracle, SQL-/PLSQL-Abfragen, Datenaufbereitung und Reporting. Sie macht verwendete Sprachkonstrukte und technische Lösungsansätze nachvollziehbar.
 
-Oracle, SQL, PL/SQL
+Die Dateien enthalten auch bearbeitete Tutorial- und Übungsbeispiele. Sie sind eine Referenzsammlung und kein zusammenhängendes produktives Datenbanksystem.
+
+## Verwendung
+
+Einzelne Abschnitte in einem Oracle-SQL-Client öffnen und die benötigten Tabellen, Schemata und Voraussetzungen prüfen. Die Dateien sind thematisch gegliedert und nicht als ein gemeinsam auszuführendes Installationsskript vorgesehen.
+
+**Technologien:** Oracle Database · SQL · PL/SQL
+
+[Profil und weitere Projekte](https://github.com/ptereschuk01)
